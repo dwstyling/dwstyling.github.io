@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Devon Williams
+N:Williams;Devon;;;
+item1.EMAIL;TYPE=INTERNET:dwilliams@dwstyling.com
+item1.X-ABLabel:
+item2.TEL:(775) 813-1907
+item2.X-ABLabel:
+item3.ADR:;;1400 N Mays St;Round Rock;TX;78664-4209;US;1400 N Mays St\nRoun
+ d Rock\, TX 78664-4209\nUS
+item3.X-ABLabel:
+item4.ORG:DW Styling
+item4.X-ABLabel:
+item5.URL:dwstyling.com
+item5.X-ABLabel:
+PHOTO:https://lh5.googleusercontent.com/-UQqTgTNjAR4/YOB1NUE72QI/AAAAAAAAAA
+ A/EG5Yb1_kZccUugtjorwlw3Om9CI5gsLywCOQCEAE/photo.jpg
+CATEGORIES:myContacts
+END:VCARD
